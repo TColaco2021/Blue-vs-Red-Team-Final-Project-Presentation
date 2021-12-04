@@ -14,9 +14,9 @@ In this project, I acted as a security engineer supporting an organization's SOC
 
   # Day 3: Final Group Presentations
 
-  Complete and submit group presentations
-  Submit an offensive red team analysis
-  Submit a defensive blue team analysis
+  Complete and submit group presentations.
+  Submit an offensive red team analysis.
+  Submit a defensive blue team analysis.
   Submit a network forensic analysis.
   
   Please see the attached report for all relevant details and findings.
